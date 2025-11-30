@@ -28,7 +28,7 @@ I am an early career biomedical scientist with deep interest in computational bi
 ---
 
 ## 📊 Featured Projects 
-- **TB epitope prediction & immunoinformatics pipeline** — *epitope mapping, MSA, antigenicity scoring*  https://dissertations.mak.ac.ug/browse?value=Echou%2C+Joel&type=author - **Cytokine data analysis (Luminex / QFT)** — *preprocessing, normalization, clustering & visualization*  
+- **TB epitope prediction & immunoinformatics pipeline** — *epitope mapping, MSA, antigenicity scoring*  https://dissertations.mak.ac.ug/browse?value=Echou%2C+Joel&type=author 
 - **Statistical modeling projects** — *logistic regression, survival analysis, diagnostic prediction*  
 - **Biomedical data exploration notebooks** — *cleaning, EDA, reproducible plots*
 
