@@ -37,7 +37,7 @@ I am an early career biomedical scientist with deep interest in computational bi
 ---
 
 ## 🔎 Selected Highlights
-- Final year project: **In-silico identification of B-cell epitopes & immunological characterization of a vaccine chimera** (MTB32A, Ag85B, ESAT-6) — TB immunoinformatics focus.  
+- Final year project: **In-silico identification of B-cell epitopes & immunological characterization of a vaccine chimera for control of Mycobacterium tuberculosis** (MTB32A, Ag85B, ESAT-6) — TB immunoinformatics focus.  
 - Certificate: **Fundamentals of Data Science in Precision Medicine & Cloud Computing** — Stanford Data Ocean.  
 - Independent data analyst: routine use of **Python, R, SPSS, Stata** across medicine, public health, and engineering datasets.
 
